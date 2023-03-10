@@ -15,3 +15,5 @@
 | 퇴주자         | main member   | test1_1@naver.com | test123@ |
 | 퇴주자        | normal member | test1_2@naver.com | test123@ |
 | 입주기업       | main member   | test7@naver.com   | test123@ |
+
+![Peek 2023-03-10 10-28](https://user-images.githubusercontent.com/35091494/224199884-b5b0ff16-6440-443e-b79f-53646b77470e.gif)
